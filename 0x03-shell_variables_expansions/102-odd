@@ -1,2 +1,0 @@
-#!/bin/bash
-paste -di" " - - | cut -d " " -f 1
