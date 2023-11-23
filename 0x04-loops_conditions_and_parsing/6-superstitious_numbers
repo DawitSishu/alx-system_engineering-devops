@@ -9,9 +9,11 @@ while [ "$num" -le 20 ]; do
             echo "and then bad luck from China"
             ;;
         9)
+            echo $num
             echo "and then bad luck from Japan"
             ;;
         17)
+            echo $num
             echo "and then bad luck from Italy"
             ;;
         *)
