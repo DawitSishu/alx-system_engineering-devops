@@ -21,7 +21,6 @@ int main(void)
 {
 int ps_num;
 pid_t pid_of_zombie;
-
 ps_num = 0;
 while (ps_num < 5)
 {
