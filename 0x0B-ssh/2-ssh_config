@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # config and user
-Host 100.26.221.33
+Host 54.146.72.50
 IdentityFile ~/.ssh/school
 PasswordAuthentication no
